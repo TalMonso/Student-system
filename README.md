@@ -13,6 +13,3 @@ This project is a Python application that manages student information and academ
 1. Clone the repository.
 2. Make sure Python is installed on your system.
 3. Execute the `main.py` script to launch the system.
-
-## Contributing
-You can contribute by forking the repository, making your changes, and creating a pull request.
